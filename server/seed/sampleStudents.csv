@@ -1,0 +1,11 @@
+apaarId,name,dob,gender,course,academicYear,studentId,category,isSupernumerary,isNRI,ociStatus,isForeignNational
+100000000001,Aarav Sharma,2005-03-14,Male,B.E. Information Science,2026-27,IS001,General,false,false,false,false
+100000000002,Diya Patel,2005-07-21,Female,B.E. Information Science,2026-27,IS002,OBC,false,false,false,false
+100000000003,Rohan Gupta,2004-11-02,Male,B.E. Information Science,2026-27,IS003,General,false,false,false,false
+100000000004,Ananya Rao,2005-01-30,Female,B.E. Information Science,2026-27,IS004,SC,false,false,false,false
+100000000005,Karthik Nair,2004-09-18,Male,B.E. Information Science,2026-27,IS005,General,false,false,false,false
+100000000006,Meera Iyer,2005-05-09,Female,B.E. Information Science,2026-27,IS006,General,false,false,false,false
+100000000007,Vikram Singh,2004-12-25,Male,B.E. Information Science,2026-27,IS007,General,true,false,false,false
+100000000001,Aarav Sharma,2005-03-14,Male,B.E. Information Science,2026-27,IS008,General,false,false,false,false
+999999999999,Unknown Student,2005-01-01,Male,B.E. Information Science,2026-27,IS009,General,false,false,false,false
+12345,Short Id,2005-01-01,Male,B.E. Information Science,2026-27,IS010,General,false,false,false,false
